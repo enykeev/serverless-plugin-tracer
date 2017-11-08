@@ -5,6 +5,9 @@
 
 Trace serverless hooks being invoked.
 
+## Why?
+When you first trying to make sense of how all the hooks from all the plugins interact with each other, the process feels overwhelming. This plugin helps you build a mental map of what's going on during the command call and what hooks gets invoked at what point.
+
 ## Getting Started
 Install the plugin
 ```
